@@ -1,0 +1,3 @@
+hey guys.
+
+l have been problems With coreamker.ps1 script and let me now if some pepole have the same problem and someone can fix it l got error it crach out when l am running the script and that is very wired beacuse other hand the coremaker.ps1 just work fine and have no erros With the script. beacuse l am trying my best to figurend Out but no problems have beem fix and the same problems agian agian when l am trying my best to find what is the problem is it the script its self or is it something l have to do to for is goning to work. and guys if you have fix this problems can you tell me what l goning to do to the script its goning to work.
